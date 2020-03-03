@@ -13,32 +13,4 @@
     <SSIDPassEvento>ilce123</SSIDPassEvento>
     <IdEstatusEvento>1</IdEstatusEvento>
   </Evento>
-  <Evento>
-    <IdEvento>2</IdEvento>
-    <NombreEvento>2o Encuentro Nacional de Tecnología Educativa</NombreEvento>
-    <FechaCreacion>2019-04-01T00:00:00</FechaCreacion>
-    <FechaInicio>2019-04-10T00:00:00</FechaInicio>
-    <FechaFin>2019-04-15T00:00:00</FechaFin>
-    <UbicacionEvento>ILCE-Miramontes</UbicacionEvento>
-    <ResumenEvento>Con el propósito de cumplir con las políticas educativas actuales en nuestro país, el ILCE convoca a los Coordinadores de Educación a Distancia o Responsables Estatales al Tercer Encuentro Nacional de Tecnología Educativa, los próximos días 10 al 15 de abril del 2019.</ResumenEvento>
-    <URLLogo>https://raw.githubusercontent.com/Neotrickster/ShutdownTimer/master/Assets/dgri_edificio.png</URLLogo>
-    <URLEvento>https://redescolar.ilce.edu.mx/sitios/micrositios/2019_encuentro/relatoria.html</URLEvento>
-    <SSIDEvento>ILCE-SSID-1</SSIDEvento>
-    <SSIDPassEvento>ilce123</SSIDPassEvento>
-    <IdEstatusEvento>1</IdEstatusEvento>
-  </Evento>
-  <Evento>
-    <IdEvento>3</IdEvento>
-    <NombreEvento>1er Encuentro Nacional de Tecnología Educativa</NombreEvento>
-    <FechaCreacion>2019-02-01T00:00:00</FechaCreacion>
-    <FechaInicio>2019-02-21T00:00:00</FechaInicio>
-    <FechaFin>2019-02-25T00:00:00</FechaFin>
-    <UbicacionEvento>ILCE-Puente</UbicacionEvento>
-    <ResumenEvento>Con el propósito de cumplir con las políticas educativas actuales en nuestro país, el ILCE convoca a los Coordinadores de Educación a Distancia o Responsables Estatales al Tercer Encuentro Nacional de Tecnología Educativa, los próximos días 21 al 25 de febrero del 2019.</ResumenEvento>
-    <URLLogo>https://raw.githubusercontent.com/Neotrickster/ShutdownTimer/master/Assets/conoce-PCO19.jpg</URLLogo>
-    <URLEvento>https://redescolar.ilce.edu.mx/sitios/micrositios/2019_encuentro/galeria.html</URLEvento>
-    <SSIDEvento>ILCE-SSID-1</SSIDEvento>
-    <SSIDPassEvento>ilce123</SSIDPassEvento>
-    <IdEstatusEvento>1</IdEstatusEvento>
-  </Evento>
 </root>
