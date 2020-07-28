@@ -1,294 +1,294 @@
 ﻿<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Programacion>
     <IdPrograma>1</IdPrograma>
-    <NombrePrograma>CI Aquí nos tocó vivir</NombrePrograma>
+    <NombrePrograma>NA Aquí nos tocó vivir</NombrePrograma>
     <FechaInicio>2020-03-16T08:00:00</FechaInicio>
     <FechaFin>2019-03-16T08:30:00</FechaFin>
     <NombreCapitulo>Castillos en el aire</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>7</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-16T08:30:00</FechaInicio>
     <FechaFin>2019-03-16T09:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>13</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-16T09:30:00</FechaInicio>
     <FechaFin>2019-03-16T10:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>19</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-16T10:00:00</FechaInicio>
     <FechaFin>2019-03-16T10:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>25</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-16T10:30:00</FechaInicio>
     <FechaFin>2019-03-16T11:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>31</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-16T11:00:00</FechaInicio>
     <FechaFin>2019-03-16T11:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>37</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-16T11:30:00</FechaInicio>
     <FechaFin>2019-03-16T12:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>6</IdPrograma>
-    <NombrePrograma>CI SEPA Inglés - Nivel Inicial</NombrePrograma>
+    <NombrePrograma>NA SEPA Inglés - Nivel Inicial</NombrePrograma>
     <FechaInicio>2020-03-16T12:00:00</FechaInicio>
     <FechaFin>2019-03-16T12:30:00</FechaFin>
     <NombreCapitulo>When we where young</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>8</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-16T12:30:00</FechaInicio>
     <FechaFin>2019-03-16T13:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>14</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-16T13:30:00</FechaInicio>
     <FechaFin>2019-03-16T14:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>20</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-16T14:00:00</FechaInicio>
     <FechaFin>2019-03-16T14:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>26</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-16T14:30:00</FechaInicio>
     <FechaFin>2019-03-16T15:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>32</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-16T15:00:00</FechaInicio>
     <FechaFin>2019-03-16T15:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>38</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-16T15:30:00</FechaInicio>
     <FechaFin>2019-03-16T16:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>2</IdPrograma>
-    <NombrePrograma>CI Aquí nos tocó vivir</NombrePrograma>
+    <NombrePrograma>NA Aquí nos tocó vivir</NombrePrograma>
     <FechaInicio>2020-03-16T16:00:00</FechaInicio>
     <FechaFin>2019-03-16T16:30:00</FechaFin>
     <NombreCapitulo>Castillos en el aire</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>9</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-16T16:30:00</FechaInicio>
     <FechaFin>2019-03-16T17:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>15</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-16T17:30:00</FechaInicio>
     <FechaFin>2019-03-16T18:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>21</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-16T18:00:00</FechaInicio>
     <FechaFin>2019-03-16T18:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>27</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-16T18:30:00</FechaInicio>
     <FechaFin>2019-03-16T19:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>33</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-16T19:00:00</FechaInicio>
     <FechaFin>2019-03-16T19:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>39</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-16T19:30:00</FechaInicio>
     <FechaFin>2019-03-16T20:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>3</IdPrograma>
-    <NombrePrograma>CI Aquí nos tocó vivir</NombrePrograma>
+    <NombrePrograma>NA Aquí nos tocó vivir</NombrePrograma>
     <FechaInicio>2020-03-16T20:00:00</FechaInicio>
     <FechaFin>2019-03-16T20:30:00</FechaFin>
     <NombreCapitulo>Castillos en el aire</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>10</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-16T20:30:00</FechaInicio>
     <FechaFin>2019-03-16T21:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>16</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-16T21:30:00</FechaInicio>
     <FechaFin>2019-03-16T22:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>22</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-16T22:00:00</FechaInicio>
     <FechaFin>2019-03-16T22:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>28</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-16T22:30:00</FechaInicio>
     <FechaFin>2019-03-16T23:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>34</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-16T23:00:00</FechaInicio>
     <FechaFin>2019-03-16T23:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>40</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-16T23:30:00</FechaInicio>
     <FechaFin>2019-03-17T00:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>4</IdPrograma>
-    <NombrePrograma>CI Aquí nos tocó vivir</NombrePrograma>
+    <NombrePrograma>NA Aquí nos tocó vivir</NombrePrograma>
     <FechaInicio>2020-03-17T00:00:00</FechaInicio>
     <FechaFin>2019-03-17T00:30:00</FechaFin>
     <NombreCapitulo>Castillos en el aire</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>11</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-17T00:30:00</FechaInicio>
     <FechaFin>2019-03-17T01:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>17</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-17T01:30:00</FechaInicio>
     <FechaFin>2019-03-17T02:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>23</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-17T02:00:00</FechaInicio>
     <FechaFin>2019-03-17T02:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>29</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-17T02:30:00</FechaInicio>
     <FechaFin>2019-03-17T03:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>35</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-17T03:00:00</FechaInicio>
     <FechaFin>2019-03-17T03:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>41</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-17T03:30:00</FechaInicio>
     <FechaFin>2019-03-17T04:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>5</IdPrograma>
-    <NombrePrograma>CI Aquí nos tocó vivir</NombrePrograma>
+    <NombrePrograma>NA Aquí nos tocó vivir</NombrePrograma>
     <FechaInicio>2020-03-17T04:00:00</FechaInicio>
     <FechaFin>2019-03-17T04:30:00</FechaFin>
     <NombreCapitulo>Castillos en el aire</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>12</IdPrograma>
-    <NombrePrograma>CI Tierra de diálogos. Nación de ideas</NombrePrograma>
+    <NombrePrograma>NA Tierra de diálogos. Nación de ideas</NombrePrograma>
     <FechaInicio>2020-03-17T04:30:00</FechaInicio>
     <FechaFin>2019-03-17T05:30:00</FechaFin>
     <NombreCapitulo>Tercera edad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>18</IdPrograma>
-    <NombrePrograma>CI Nosotros, los otros, espejo de la discriminación</NombrePrograma>
+    <NombrePrograma>NA Nosotros, los otros, espejo de la discriminación</NombrePrograma>
     <FechaInicio>2020-03-17T05:30:00</FechaInicio>
     <FechaFin>2019-03-17T06:00:00</FechaFin>
     <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>24</IdPrograma>
-    <NombrePrograma>CI Fuerza Latina</NombrePrograma>
+    <NombrePrograma>NA Fuerza Latina</NombrePrograma>
     <FechaInicio>2020-03-17T06:00:00</FechaInicio>
     <FechaFin>2019-03-17T06:30:00</FechaFin>
     <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>30</IdPrograma>
-    <NombrePrograma>CI Avenida Playa Ancha</NombrePrograma>
+    <NombrePrograma>NA Avenida Playa Ancha</NombrePrograma>
     <FechaInicio>2020-03-17T06:30:00</FechaInicio>
     <FechaFin>2019-03-17T07:00:00</FechaFin>
     <NombreCapitulo>Capítulo 28</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>36</IdPrograma>
-    <NombrePrograma>CI ¿Qué onda con el sexo?</NombrePrograma>
+    <NombrePrograma>NA ¿Qué onda con el sexo?</NombrePrograma>
     <FechaInicio>2020-03-17T07:00:00</FechaInicio>
     <FechaFin>2019-03-17T07:30:00</FechaFin>
     <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
   </Programacion>
   <Programacion>
     <IdPrograma>42</IdPrograma>
-    <NombrePrograma>CI Aquí estoy</NombrePrograma>
+    <NombrePrograma>NA Aquí estoy</NombrePrograma>
     <FechaInicio>2020-03-17T07:30:00</FechaInicio>
     <FechaFin>2019-03-17T08:00:00</FechaFin>
     <NombreCapitulo>195</NombreCapitulo>
