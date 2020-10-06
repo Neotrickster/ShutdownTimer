@@ -1,296 +1,2025 @@
 ﻿<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Programacion>
-    <IdPrograma>1</IdPrograma>
-    <NombrePrograma>SS Aquí nos tocó vivir</NombrePrograma>
-    <FechaInicio>2020-09-04T08:00:00</FechaInicio>
-    <FechaFin>2020-09-04T08:30:00</FechaFin>
-    <NombreCapitulo>Castillos en el aire</NombreCapitulo>
+    <IdPrograma>1155</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T08:00:00</FechaInicio>
+    <FechaFin>2020-10-05T08:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>7</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-04T08:30:00</FechaInicio>
-    <FechaFin>2020-09-04T09:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1156</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T08:30:00</FechaInicio>
+    <FechaFin>2020-10-05T09:00:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>13</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-04T09:30:00</FechaInicio>
-    <FechaFin>2020-09-04T10:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1157</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T09:00:00</FechaInicio>
+    <FechaFin>2020-10-05T09:30:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>19</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-04T10:00:00</FechaInicio>
-    <FechaFin>2020-09-04T10:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1158</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T09:30:00</FechaInicio>
+    <FechaFin>2020-10-05T10:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>25</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-04T10:30:00</FechaInicio>
-    <FechaFin>2020-09-04T11:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1159</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T10:00:00</FechaInicio>
+    <FechaFin>2020-10-05T10:30:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>31</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-04T11:00:00</FechaInicio>
-    <FechaFin>2020-09-04T11:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1160</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T10:30:00</FechaInicio>
+    <FechaFin>2020-10-05T11:00:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>37</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-04T11:30:00</FechaInicio>
-    <FechaFin>2020-09-04T12:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1161</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T11:00:00</FechaInicio>
+    <FechaFin>2020-10-05T11:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>6</IdPrograma>
-    <NombrePrograma>SS SEPA Inglés - Nivel Inicial</NombrePrograma>
-    <FechaInicio>2020-09-04T12:00:00</FechaInicio>
-    <FechaFin>2020-09-04T12:30:00</FechaFin>
-    <NombreCapitulo>When we where young</NombreCapitulo>
+    <IdPrograma>1162</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T11:30:00</FechaInicio>
+    <FechaFin>2020-10-05T12:00:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>8</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-04T12:30:00</FechaInicio>
-    <FechaFin>2020-09-04T13:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1163</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T12:00:00</FechaInicio>
+    <FechaFin>2020-10-05T12:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>14</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-04T13:30:00</FechaInicio>
-    <FechaFin>2020-09-04T14:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1164</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T12:30:00</FechaInicio>
+    <FechaFin>2020-10-05T13:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>20</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-04T14:00:00</FechaInicio>
-    <FechaFin>2020-09-04T14:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1165</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T13:00:00</FechaInicio>
+    <FechaFin>2020-10-05T13:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>26</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-04T14:30:00</FechaInicio>
-    <FechaFin>2020-09-04T15:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1166</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T13:30:00</FechaInicio>
+    <FechaFin>2020-10-05T14:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>32</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-04T15:00:00</FechaInicio>
-    <FechaFin>2020-09-04T15:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1167</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T14:00:00</FechaInicio>
+    <FechaFin>2020-10-05T14:30:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>38</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-04T15:30:00</FechaInicio>
-    <FechaFin>2020-09-04T16:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1168</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T14:30:00</FechaInicio>
+    <FechaFin>2020-10-05T15:00:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>2</IdPrograma>
-    <NombrePrograma>SS Aquí nos tocó vivir</NombrePrograma>
-    <FechaInicio>2020-09-04T16:00:00</FechaInicio>
-    <FechaFin>2020-09-04T16:30:00</FechaFin>
-    <NombreCapitulo>Castillos en el aire</NombreCapitulo>
+    <IdPrograma>1169</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T15:00:00</FechaInicio>
+    <FechaFin>2020-10-05T15:30:00</FechaFin>
+    <NombreCapitulo>Lengua materna. Español</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>9</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-04T16:30:00</FechaInicio>
-    <FechaFin>2020-09-04T17:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1170</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T15:30:00</FechaInicio>
+    <FechaFin>2020-10-05T16:00:00</FechaFin>
+    <NombreCapitulo>Matemáticas</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>15</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-04T17:30:00</FechaInicio>
-    <FechaFin>2020-09-04T18:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1171</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T16:00:00</FechaInicio>
+    <FechaFin>2020-10-05T16:30:00</FechaFin>
+    <NombreCapitulo>Historia</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>21</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-04T18:00:00</FechaInicio>
-    <FechaFin>2020-09-04T18:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1172</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T16:30:00</FechaInicio>
+    <FechaFin>2020-10-05T17:00:00</FechaFin>
+    <NombreCapitulo>Ciencia y tecnología. Química</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>27</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-04T18:30:00</FechaInicio>
-    <FechaFin>2020-09-04T19:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1173</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T17:00:00</FechaInicio>
+    <FechaFin>2020-10-05T17:30:00</FechaFin>
+    <NombreCapitulo>Artes</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>33</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-04T19:00:00</FechaInicio>
-    <FechaFin>2020-09-04T19:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1174</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-05T17:30:00</FechaInicio>
+    <FechaFin>2020-10-05T18:00:00</FechaFin>
+    <NombreCapitulo>Cívica y ética en diálogo</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>39</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-04T19:30:00</FechaInicio>
-    <FechaFin>2020-09-04T20:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1175</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-05T18:00:00</FechaInicio>
+    <FechaFin>2020-10-05T19:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>3</IdPrograma>
-    <NombrePrograma>SS Aquí nos tocó vivir</NombrePrograma>
-    <FechaInicio>2020-09-04T20:00:00</FechaInicio>
-    <FechaFin>2020-09-04T20:30:00</FechaFin>
-    <NombreCapitulo>Castillos en el aire</NombreCapitulo>
+    <IdPrograma>1176</IdPrograma>
+    <NombrePrograma>1er. Congreso Latinoamericano de Innovación y Calidad</NombrePrograma>
+    <FechaInicio>2020-10-05T19:15:00</FechaInicio>
+    <FechaFin>2020-10-05T20:00:00</FechaFin>
+    <NombreCapitulo>Panel de expertos. ¿Cómo hacer de nuestra empresa una PyME competitiva e innovadora?</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>10</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-04T20:30:00</FechaInicio>
-    <FechaFin>2020-09-04T21:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1177</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-05T20:00:00</FechaInicio>
+    <FechaFin>2020-10-05T21:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>16</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-04T21:30:00</FechaInicio>
-    <FechaFin>2020-09-04T22:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1178</IdPrograma>
+    <NombrePrograma>El mediador</NombrePrograma>
+    <FechaInicio>2020-10-05T21:00:00</FechaInicio>
+    <FechaFin>2020-10-05T22:00:00</FechaFin>
+    <NombreCapitulo>La mediacion en materia penal y justicia para adolescentes</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>22</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-04T22:00:00</FechaInicio>
-    <FechaFin>2020-09-04T22:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1179</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-05T22:00:00</FechaInicio>
+    <FechaFin>2020-10-05T23:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>28</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-04T22:30:00</FechaInicio>
-    <FechaFin>2020-09-04T23:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1180</IdPrograma>
+    <NombrePrograma>1er. Congreso Latinoamericano de Innovación y Calidad</NombrePrograma>
+    <FechaInicio>2020-10-05T23:15:00</FechaInicio>
+    <FechaFin>2020-10-06T00:00:00</FechaFin>
+    <NombreCapitulo>Panel de expertos. ¿Cómo hacer de nuestra empresa una PyME competitiva e innovadora?</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>34</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-04T23:00:00</FechaInicio>
-    <FechaFin>2020-09-04T23:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1181</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-06T00:00:00</FechaInicio>
+    <FechaFin>2020-10-06T01:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>40</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-04T23:30:00</FechaInicio>
-    <FechaFin>2020-09-05T00:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1224</IdPrograma>
+    <NombrePrograma>Enfoque ULS</NombrePrograma>
+    <FechaInicio>2020-10-06T00:15:00</FechaInicio>
+    <FechaFin>2020-10-06T00:30:00</FechaFin>
+    <NombreCapitulo>Proyecto Baquedano</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>4</IdPrograma>
-    <NombrePrograma>SS Aquí nos tocó vivir</NombrePrograma>
-    <FechaInicio>2020-09-05T00:00:00</FechaInicio>
-    <FechaFin>2020-09-05T00:30:00</FechaFin>
-    <NombreCapitulo>Castillos en el aire</NombreCapitulo>
+    <IdPrograma>1182</IdPrograma>
+    <NombrePrograma>El mediador</NombrePrograma>
+    <FechaInicio>2020-10-06T01:00:00</FechaInicio>
+    <FechaFin>2020-10-06T02:00:00</FechaFin>
+    <NombreCapitulo>La mediacion en materia penal y justicia para adolescentes</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>11</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-05T00:30:00</FechaInicio>
-    <FechaFin>2020-09-05T01:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1183</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-06T02:00:00</FechaInicio>
+    <FechaFin>2020-10-06T03:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>17</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-05T01:30:00</FechaInicio>
-    <FechaFin>2020-09-05T02:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1228</IdPrograma>
+    <NombrePrograma>Bocados de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T02:15:00</FechaInicio>
+    <FechaFin>2020-10-06T02:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>23</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-05T02:00:00</FechaInicio>
-    <FechaFin>2020-09-05T02:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1184</IdPrograma>
+    <NombrePrograma>1er. Congreso Latinoamericano de Innovación y Calidad</NombrePrograma>
+    <FechaInicio>2020-10-06T03:15:00</FechaInicio>
+    <FechaFin>2020-10-06T04:00:00</FechaFin>
+    <NombreCapitulo>Panel de expertos. ¿Cómo hacer de nuestra empresa una PyME competitiva e innovadora?</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>29</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-05T02:30:00</FechaInicio>
-    <FechaFin>2020-09-05T03:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1185</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-06T04:00:00</FechaInicio>
+    <FechaFin>2020-10-06T05:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>35</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-05T03:00:00</FechaInicio>
-    <FechaFin>2020-09-05T03:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1233</IdPrograma>
+    <NombrePrograma>Enfoque ULS</NombrePrograma>
+    <FechaInicio>2020-10-06T04:15:00</FechaInicio>
+    <FechaFin>2020-10-06T04:30:00</FechaFin>
+    <NombreCapitulo>Proyecto Baquedano</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>41</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-05T03:30:00</FechaInicio>
-    <FechaFin>2020-09-05T04:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1186</IdPrograma>
+    <NombrePrograma>El mediador</NombrePrograma>
+    <FechaInicio>2020-10-06T05:00:00</FechaInicio>
+    <FechaFin>2020-10-06T06:00:00</FechaFin>
+    <NombreCapitulo>La mediacion en materia penal y justicia para adolescentes</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>5</IdPrograma>
-    <NombrePrograma>SS Aquí nos tocó vivir</NombrePrograma>
-    <FechaInicio>2020-09-05T04:00:00</FechaInicio>
-    <FechaFin>2020-09-05T04:30:00</FechaFin>
-    <NombreCapitulo>Castillos en el aire</NombreCapitulo>
+    <IdPrograma>1187</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-06T06:00:00</FechaInicio>
+    <FechaFin>2020-10-06T07:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>12</IdPrograma>
-    <NombrePrograma>SS Tierra de diálogos. Nación de ideas</NombrePrograma>
-    <FechaInicio>2020-09-05T04:30:00</FechaInicio>
-    <FechaFin>2020-09-05T05:30:00</FechaFin>
-    <NombreCapitulo>Tercera edad</NombreCapitulo>
+    <IdPrograma>1237</IdPrograma>
+    <NombrePrograma>Bocados de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T06:15:00</FechaInicio>
+    <FechaFin>2020-10-06T06:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>18</IdPrograma>
-    <NombrePrograma>SS Nosotros, los otros, espejo de la discriminación</NombrePrograma>
-    <FechaInicio>2020-09-05T05:30:00</FechaInicio>
-    <FechaFin>2020-09-05T06:00:00</FechaFin>
-    <NombreCapitulo>Talla baja… Pero enorme dignidad</NombreCapitulo>
+    <IdPrograma>1188</IdPrograma>
+    <NombrePrograma>1er. Congreso Latinoamericano de Innovación y Calidad</NombrePrograma>
+    <FechaInicio>2020-10-06T07:15:00</FechaInicio>
+    <FechaFin>2020-10-06T08:00:00</FechaFin>
+    <NombreCapitulo>Panel de expertos. ¿Cómo hacer de nuestra empresa una PyME competitiva e innovadora?</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>24</IdPrograma>
-    <NombrePrograma>SS Fuerza Latina</NombrePrograma>
-    <FechaInicio>2020-09-05T06:00:00</FechaInicio>
-    <FechaFin>2020-09-05T06:30:00</FechaFin>
-    <NombreCapitulo>Encuentros inspiradores con mujeres que transforman el mundo</NombreCapitulo>
+    <IdPrograma>1189</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T08:00:00</FechaInicio>
+    <FechaFin>2020-10-06T08:30:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>30</IdPrograma>
-    <NombrePrograma>SS Avenida Playa Ancha</NombrePrograma>
-    <FechaInicio>2020-09-05T06:30:00</FechaInicio>
-    <FechaFin>2020-09-05T07:00:00</FechaFin>
-    <NombreCapitulo>Capítulo 28</NombreCapitulo>
+    <IdPrograma>1190</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T08:30:00</FechaInicio>
+    <FechaFin>2020-10-06T09:00:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>36</IdPrograma>
-    <NombrePrograma>SS ¿Qué onda con el sexo?</NombrePrograma>
-    <FechaInicio>2020-09-05T07:00:00</FechaInicio>
-    <FechaFin>2020-09-05T07:30:00</FechaFin>
-    <NombreCapitulo>Nadie quiere a mi novia</NombreCapitulo>
+    <IdPrograma>1191</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T09:00:00</FechaInicio>
+    <FechaFin>2020-10-06T09:30:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
   </Programacion>
   <Programacion>
-    <IdPrograma>42</IdPrograma>
-    <NombrePrograma>SS Aquí estoy</NombrePrograma>
-    <FechaInicio>2020-09-05T07:30:00</FechaInicio>
-    <FechaFin>2020-09-05T08:00:00</FechaFin>
-    <NombreCapitulo>195</NombreCapitulo>
+    <IdPrograma>1192</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T09:30:00</FechaInicio>
+    <FechaFin>2020-10-06T10:00:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1193</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T10:00:00</FechaInicio>
+    <FechaFin>2020-10-06T10:30:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1194</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T10:30:00</FechaInicio>
+    <FechaFin>2020-10-06T11:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1195</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T11:00:00</FechaInicio>
+    <FechaFin>2020-10-06T11:30:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1196</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T11:30:00</FechaInicio>
+    <FechaFin>2020-10-06T12:00:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1197</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T12:00:00</FechaInicio>
+    <FechaFin>2020-10-06T12:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1198</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T12:30:00</FechaInicio>
+    <FechaFin>2020-10-06T13:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1199</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T13:00:00</FechaInicio>
+    <FechaFin>2020-10-06T13:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1200</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T13:30:00</FechaInicio>
+    <FechaFin>2020-10-06T14:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1201</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T14:00:00</FechaInicio>
+    <FechaFin>2020-10-06T14:30:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1202</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T14:30:00</FechaInicio>
+    <FechaFin>2020-10-06T15:00:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1203</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T15:00:00</FechaInicio>
+    <FechaFin>2020-10-06T15:30:00</FechaFin>
+    <NombreCapitulo>Matemáticas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1204</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T15:30:00</FechaInicio>
+    <FechaFin>2020-10-06T16:00:00</FechaFin>
+    <NombreCapitulo>Lengua materna. Español</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1205</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T16:00:00</FechaInicio>
+    <FechaFin>2020-10-06T16:30:00</FechaFin>
+    <NombreCapitulo>Ciencia y tecnología. Química</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1206</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T16:30:00</FechaInicio>
+    <FechaFin>2020-10-06T17:00:00</FechaFin>
+    <NombreCapitulo>Formación cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1207</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T17:00:00</FechaInicio>
+    <FechaFin>2020-10-06T17:30:00</FechaFin>
+    <NombreCapitulo>Tecnología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1208</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-06T17:30:00</FechaInicio>
+    <FechaFin>2020-10-06T18:00:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1209</IdPrograma>
+    <NombrePrograma>Noticiero NCC - Salud</NombrePrograma>
+    <FechaInicio>2020-10-06T18:00:00</FechaInicio>
+    <FechaFin>2020-10-06T18:15:00</FechaFin>
+    <NombreCapitulo>Capítulo 9</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1210</IdPrograma>
+    <NombrePrograma>Bocados de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T18:15:00</FechaInicio>
+    <FechaFin>2020-10-06T18:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1211</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T18:30:00</FechaInicio>
+    <FechaFin>2020-10-06T19:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1212</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-06T19:00:00</FechaInicio>
+    <FechaFin>2020-10-06T19:15:00</FechaFin>
+    <NombreCapitulo>Capítulo 278</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1213</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T19:30:00</FechaInicio>
+    <FechaFin>2020-10-06T20:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota / Las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1214</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-06T20:00:00</FechaInicio>
+    <FechaFin>2020-10-06T20:15:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1215</IdPrograma>
+    <NombrePrograma>Enfoque ULS</NombrePrograma>
+    <FechaInicio>2020-10-06T20:15:00</FechaInicio>
+    <FechaFin>2020-10-06T20:30:00</FechaFin>
+    <NombreCapitulo>Proyecto Baquedano</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1216</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-06T20:30:00</FechaInicio>
+    <FechaFin>2020-10-06T21:00:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1217</IdPrograma>
+    <NombrePrograma>Diálogo de bioética</NombrePrograma>
+    <FechaInicio>2020-10-06T21:00:00</FechaInicio>
+    <FechaFin>2020-10-06T22:00:00</FechaFin>
+    <NombreCapitulo>Bioética en el cine y la literatura</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1218</IdPrograma>
+    <NombrePrograma>Noticiero NCC - Salud</NombrePrograma>
+    <FechaInicio>2020-10-06T22:00:00</FechaInicio>
+    <FechaFin>2020-10-06T22:15:00</FechaFin>
+    <NombreCapitulo>Capítulo 9</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1219</IdPrograma>
+    <NombrePrograma>Bocados de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T22:15:00</FechaInicio>
+    <FechaFin>2020-10-06T22:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1220</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T22:30:00</FechaInicio>
+    <FechaFin>2020-10-06T23:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1221</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-06T23:00:00</FechaInicio>
+    <FechaFin>2020-10-06T23:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 278</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1222</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-06T23:30:00</FechaInicio>
+    <FechaFin>2020-10-07T00:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota / Las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1223</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-07T00:00:00</FechaInicio>
+    <FechaFin>2020-10-07T00:15:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1225</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-07T00:30:00</FechaInicio>
+    <FechaFin>2020-10-07T01:00:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1226</IdPrograma>
+    <NombrePrograma>Diálogo de bioética</NombrePrograma>
+    <FechaInicio>2020-10-07T01:00:00</FechaInicio>
+    <FechaFin>2020-10-07T02:00:00</FechaFin>
+    <NombreCapitulo>Bioética en el cine y la literatura</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1227</IdPrograma>
+    <NombrePrograma>Noticiero NCC - Salud</NombrePrograma>
+    <FechaInicio>2020-10-07T02:00:00</FechaInicio>
+    <FechaFin>2020-10-07T02:15:00</FechaFin>
+    <NombreCapitulo>Capítulo 9</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1229</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-07T02:30:00</FechaInicio>
+    <FechaFin>2020-10-07T03:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1230</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-07T03:00:00</FechaInicio>
+    <FechaFin>2020-10-07T03:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 278</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1231</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-07T03:30:00</FechaInicio>
+    <FechaFin>2020-10-07T04:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota / Las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1232</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-07T04:00:00</FechaInicio>
+    <FechaFin>2020-10-07T04:15:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1234</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-07T04:30:00</FechaInicio>
+    <FechaFin>2020-10-07T05:00:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1235</IdPrograma>
+    <NombrePrograma>Diálogo de bioética</NombrePrograma>
+    <FechaInicio>2020-10-07T05:00:00</FechaInicio>
+    <FechaFin>2020-10-07T06:00:00</FechaFin>
+    <NombreCapitulo>Bioética en el cine y la literatura</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1236</IdPrograma>
+    <NombrePrograma>Noticiero NCC - Salud</NombrePrograma>
+    <FechaInicio>2020-10-07T06:00:00</FechaInicio>
+    <FechaFin>2020-10-07T06:15:00</FechaFin>
+    <NombreCapitulo>Capítulo 9</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1238</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-07T06:30:00</FechaInicio>
+    <FechaFin>2020-10-07T07:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1239</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-07T07:00:00</FechaInicio>
+    <FechaFin>2020-10-07T07:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 278</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1240</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-07T07:30:00</FechaInicio>
+    <FechaFin>2020-10-07T08:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota / Las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1241</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T08:00:00</FechaInicio>
+    <FechaFin>2020-10-07T08:30:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1242</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T08:30:00</FechaInicio>
+    <FechaFin>2020-10-07T09:00:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1243</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T09:00:00</FechaInicio>
+    <FechaFin>2020-10-07T09:30:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1244</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T09:30:00</FechaInicio>
+    <FechaFin>2020-10-07T10:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1245</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T10:00:00</FechaInicio>
+    <FechaFin>2020-10-07T10:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1246</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T10:30:00</FechaInicio>
+    <FechaFin>2020-10-07T11:00:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1247</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T11:00:00</FechaInicio>
+    <FechaFin>2020-10-07T11:30:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1248</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T11:30:00</FechaInicio>
+    <FechaFin>2020-10-07T12:00:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1249</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T12:00:00</FechaInicio>
+    <FechaFin>2020-10-07T12:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1250</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T12:30:00</FechaInicio>
+    <FechaFin>2020-10-07T13:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1251</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T13:00:00</FechaInicio>
+    <FechaFin>2020-10-07T13:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1252</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T13:30:00</FechaInicio>
+    <FechaFin>2020-10-07T14:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1253</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T14:00:00</FechaInicio>
+    <FechaFin>2020-10-07T14:30:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1254</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T14:30:00</FechaInicio>
+    <FechaFin>2020-10-07T15:00:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1255</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T15:00:00</FechaInicio>
+    <FechaFin>2020-10-07T15:30:00</FechaFin>
+    <NombreCapitulo>Lengua materna. Español</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1256</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T15:30:00</FechaInicio>
+    <FechaFin>2020-10-07T16:00:00</FechaFin>
+    <NombreCapitulo>Matemáticas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1257</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T16:00:00</FechaInicio>
+    <FechaFin>2020-10-07T16:30:00</FechaFin>
+    <NombreCapitulo>Formación cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1258</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T16:30:00</FechaInicio>
+    <FechaFin>2020-10-07T17:00:00</FechaFin>
+    <NombreCapitulo>Tecnología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1259</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T17:00:00</FechaInicio>
+    <FechaFin>2020-10-07T17:30:00</FechaFin>
+    <NombreCapitulo>Historia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1260</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-07T17:30:00</FechaInicio>
+    <FechaFin>2020-10-07T18:00:00</FechaFin>
+    <NombreCapitulo>Inglés</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1261</IdPrograma>
+    <NombrePrograma>Morelos es rodada</NombrePrograma>
+    <FechaInicio>2020-10-07T18:00:00</FechaInicio>
+    <FechaFin>2020-10-07T18:30:00</FechaFin>
+    <NombreCapitulo>Xochicalco</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1262</IdPrograma>
+    <NombrePrograma>1,5 Grados. El límite</NombrePrograma>
+    <FechaInicio>2020-10-07T18:30:00</FechaInicio>
+    <FechaFin>2020-10-07T19:00:00</FechaFin>
+    <NombreCapitulo>Comunidades</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1263</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-07T19:00:00</FechaInicio>
+    <FechaFin>2020-10-07T19:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1264</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-07T19:30:00</FechaInicio>
+    <FechaFin>2020-10-07T20:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1265</IdPrograma>
+    <NombrePrograma>Al natural</NombrePrograma>
+    <FechaInicio>2020-10-07T20:00:00</FechaInicio>
+    <FechaFin>2020-10-07T21:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1266</IdPrograma>
+    <NombrePrograma>El pedregal de ciudad universitaria</NombrePrograma>
+    <FechaInicio>2020-10-07T21:00:00</FechaInicio>
+    <FechaFin>2020-10-07T22:00:00</FechaFin>
+    <NombreCapitulo>La roca volcánica, la base de la vida</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1267</IdPrograma>
+    <NombrePrograma>Morelos es rodada</NombrePrograma>
+    <FechaInicio>2020-10-07T22:00:00</FechaInicio>
+    <FechaFin>2020-10-07T22:30:00</FechaFin>
+    <NombreCapitulo>Xochicalco</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1268</IdPrograma>
+    <NombrePrograma>1,5 Grados. El límite</NombrePrograma>
+    <FechaInicio>2020-10-07T22:30:00</FechaInicio>
+    <FechaFin>2020-10-07T23:00:00</FechaFin>
+    <NombreCapitulo>Comunidades</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1269</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-07T23:00:00</FechaInicio>
+    <FechaFin>2020-10-07T23:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1270</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-07T23:30:00</FechaInicio>
+    <FechaFin>2020-10-08T00:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1271</IdPrograma>
+    <NombrePrograma>Al natural</NombrePrograma>
+    <FechaInicio>2020-10-08T00:00:00</FechaInicio>
+    <FechaFin>2020-10-08T01:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1272</IdPrograma>
+    <NombrePrograma>El pedregal de ciudad universitaria</NombrePrograma>
+    <FechaInicio>2020-10-08T01:00:00</FechaInicio>
+    <FechaFin>2020-10-08T02:00:00</FechaFin>
+    <NombreCapitulo>La roca volcánica, la base de la vida</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1273</IdPrograma>
+    <NombrePrograma>Morelos es rodada</NombrePrograma>
+    <FechaInicio>2020-10-08T02:00:00</FechaInicio>
+    <FechaFin>2020-10-08T02:30:00</FechaFin>
+    <NombreCapitulo>Xochicalco</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1274</IdPrograma>
+    <NombrePrograma>1,5 Grados. El límite</NombrePrograma>
+    <FechaInicio>2020-10-08T02:30:00</FechaInicio>
+    <FechaFin>2020-10-08T03:00:00</FechaFin>
+    <NombreCapitulo>Comunidades</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1275</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-08T03:00:00</FechaInicio>
+    <FechaFin>2020-10-08T03:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1276</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-08T03:30:00</FechaInicio>
+    <FechaFin>2020-10-08T04:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1277</IdPrograma>
+    <NombrePrograma>Al natural</NombrePrograma>
+    <FechaInicio>2020-10-08T04:00:00</FechaInicio>
+    <FechaFin>2020-10-08T05:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1278</IdPrograma>
+    <NombrePrograma>El pedregal de ciudad universitaria</NombrePrograma>
+    <FechaInicio>2020-10-08T05:00:00</FechaInicio>
+    <FechaFin>2020-10-08T06:00:00</FechaFin>
+    <NombreCapitulo>La roca volcánica, la base de la vida</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1279</IdPrograma>
+    <NombrePrograma>Morelos es rodada</NombrePrograma>
+    <FechaInicio>2020-10-08T06:00:00</FechaInicio>
+    <FechaFin>2020-10-08T06:30:00</FechaFin>
+    <NombreCapitulo>Xochicalco</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1280</IdPrograma>
+    <NombrePrograma>1,5 Grados. El límite</NombrePrograma>
+    <FechaInicio>2020-10-08T06:30:00</FechaInicio>
+    <FechaFin>2020-10-08T07:00:00</FechaFin>
+    <NombreCapitulo>Comunidades</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1281</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-08T07:00:00</FechaInicio>
+    <FechaFin>2020-10-08T07:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1282</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-08T07:30:00</FechaInicio>
+    <FechaFin>2020-10-08T08:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1283</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T08:00:00</FechaInicio>
+    <FechaFin>2020-10-08T08:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1284</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T08:30:00</FechaInicio>
+    <FechaFin>2020-10-08T09:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1285</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T09:00:00</FechaInicio>
+    <FechaFin>2020-10-08T09:30:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1286</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T09:30:00</FechaInicio>
+    <FechaFin>2020-10-08T10:00:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1287</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T10:00:00</FechaInicio>
+    <FechaFin>2020-10-08T10:30:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1288</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T10:30:00</FechaInicio>
+    <FechaFin>2020-10-08T11:00:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1289</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T11:00:00</FechaInicio>
+    <FechaFin>2020-10-08T11:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1290</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T11:30:00</FechaInicio>
+    <FechaFin>2020-10-08T12:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1291</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T12:00:00</FechaInicio>
+    <FechaFin>2020-10-08T12:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1292</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T12:30:00</FechaInicio>
+    <FechaFin>2020-10-08T13:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1293</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T13:00:00</FechaInicio>
+    <FechaFin>2020-10-08T13:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1294</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T13:30:00</FechaInicio>
+    <FechaFin>2020-10-08T14:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1295</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T14:00:00</FechaInicio>
+    <FechaFin>2020-10-08T14:30:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1296</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T14:30:00</FechaInicio>
+    <FechaFin>2020-10-08T15:00:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1297</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T15:00:00</FechaInicio>
+    <FechaFin>2020-10-08T15:30:00</FechaFin>
+    <NombreCapitulo>Matemáticas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1298</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T15:30:00</FechaInicio>
+    <FechaFin>2020-10-08T16:00:00</FechaFin>
+    <NombreCapitulo>Lengua materna. Español</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1299</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T16:00:00</FechaInicio>
+    <FechaFin>2020-10-08T16:30:00</FechaFin>
+    <NombreCapitulo>Ciencia y tecnología. Química</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1300</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T16:30:00</FechaInicio>
+    <FechaFin>2020-10-08T17:00:00</FechaFin>
+    <NombreCapitulo>Formación cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1301</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T17:00:00</FechaInicio>
+    <FechaFin>2020-10-08T17:30:00</FechaFin>
+    <NombreCapitulo>Tecnología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1302</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-08T17:30:00</FechaInicio>
+    <FechaFin>2020-10-08T18:00:00</FechaFin>
+    <NombreCapitulo>Cívica y ética en diálogo</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1303</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-08T18:00:00</FechaInicio>
+    <FechaFin>2020-10-08T18:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1304</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-08T18:30:00</FechaInicio>
+    <FechaFin>2020-10-08T19:00:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1305</IdPrograma>
+    <NombrePrograma>El académico</NombrePrograma>
+    <FechaInicio>2020-10-08T19:00:00</FechaInicio>
+    <FechaFin>2020-10-08T20:00:00</FechaFin>
+    <NombreCapitulo>Conferencia de Marina Walker y conversación con Daniel Rafecas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1306</IdPrograma>
+    <NombrePrograma>Webinars en el territorio sobre el COVID-19</NombrePrograma>
+    <FechaInicio>2020-10-08T20:00:00</FechaInicio>
+    <FechaFin>2020-10-08T20:30:00</FechaFin>
+    <NombreCapitulo>Impacto de la pandemia en el sistema agroalimentario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1307</IdPrograma>
+    <NombrePrograma>Conferencias magistrales</NombrePrograma>
+    <FechaInicio>2020-10-08T20:30:00</FechaInicio>
+    <FechaFin>2020-10-08T21:00:00</FechaFin>
+    <NombreCapitulo>Charla con Guillermo Bucio</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1308</IdPrograma>
+    <NombrePrograma>Brújula en mano. T2</NombrePrograma>
+    <FechaInicio>2020-10-08T21:00:00</FechaInicio>
+    <FechaFin>2020-10-08T22:00:00</FechaFin>
+    <NombreCapitulo>Servicio social: Tramite o compromiso</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1309</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-08T22:00:00</FechaInicio>
+    <FechaFin>2020-10-08T22:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1310</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-08T22:30:00</FechaInicio>
+    <FechaFin>2020-10-08T23:00:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1311</IdPrograma>
+    <NombrePrograma>El académico</NombrePrograma>
+    <FechaInicio>2020-10-08T23:00:00</FechaInicio>
+    <FechaFin>2020-10-09T00:00:00</FechaFin>
+    <NombreCapitulo>Conferencia de Marina Walker y conversación con Daniel Rafecas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1312</IdPrograma>
+    <NombrePrograma>Webinars en el territorio sobre el COVID-19</NombrePrograma>
+    <FechaInicio>2020-10-09T00:00:00</FechaInicio>
+    <FechaFin>2020-10-09T00:30:00</FechaFin>
+    <NombreCapitulo>Impacto de la pandemia en el sistema agroalimentario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1313</IdPrograma>
+    <NombrePrograma>Conferencias magistrales</NombrePrograma>
+    <FechaInicio>2020-10-09T00:30:00</FechaInicio>
+    <FechaFin>2020-10-09T01:00:00</FechaFin>
+    <NombreCapitulo>Charla con Guillermo Bucio</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1314</IdPrograma>
+    <NombrePrograma>Brújula en mano. T2</NombrePrograma>
+    <FechaInicio>2020-10-09T01:00:00</FechaInicio>
+    <FechaFin>2020-10-09T02:00:00</FechaFin>
+    <NombreCapitulo>Servicio social: Tramite o compromiso</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1315</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-09T02:00:00</FechaInicio>
+    <FechaFin>2020-10-09T02:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1316</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-09T02:30:00</FechaInicio>
+    <FechaFin>2020-10-09T03:00:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1317</IdPrograma>
+    <NombrePrograma>El académico</NombrePrograma>
+    <FechaInicio>2020-10-09T03:00:00</FechaInicio>
+    <FechaFin>2020-10-09T04:00:00</FechaFin>
+    <NombreCapitulo>Conferencia de Marina Walker y conversación con Daniel Rafecas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1318</IdPrograma>
+    <NombrePrograma>Webinars en el territorio sobre el COVID-19</NombrePrograma>
+    <FechaInicio>2020-10-09T04:00:00</FechaInicio>
+    <FechaFin>2020-10-09T04:30:00</FechaFin>
+    <NombreCapitulo>Impacto de la pandemia en el sistema agroalimentario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1319</IdPrograma>
+    <NombrePrograma>Conferencias magistrales</NombrePrograma>
+    <FechaInicio>2020-10-09T04:30:00</FechaInicio>
+    <FechaFin>2020-10-09T05:00:00</FechaFin>
+    <NombreCapitulo>Charla con Guillermo Bucio</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1320</IdPrograma>
+    <NombrePrograma>Brújula en mano. T2</NombrePrograma>
+    <FechaInicio>2020-10-09T05:00:00</FechaInicio>
+    <FechaFin>2020-10-09T06:00:00</FechaFin>
+    <NombreCapitulo>Servicio social: Tramite o compromiso</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1321</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-09T06:00:00</FechaInicio>
+    <FechaFin>2020-10-09T06:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1322</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-09T06:30:00</FechaInicio>
+    <FechaFin>2020-10-09T07:00:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1323</IdPrograma>
+    <NombrePrograma>El académico</NombrePrograma>
+    <FechaInicio>2020-10-09T07:00:00</FechaInicio>
+    <FechaFin>2020-10-09T08:00:00</FechaFin>
+    <NombreCapitulo>Conferencia de Marina Walker y conversación con Daniel Rafecas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1324</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T08:00:00</FechaInicio>
+    <FechaFin>2020-10-09T08:30:00</FechaFin>
+    <NombreCapitulo>Conciencia histórica</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1325</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T08:30:00</FechaInicio>
+    <FechaFin>2020-10-09T09:00:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1326</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T09:00:00</FechaInicio>
+    <FechaFin>2020-10-09T09:30:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1327</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T09:30:00</FechaInicio>
+    <FechaFin>2020-10-09T10:00:00</FechaFin>
+    <NombreCapitulo>Responsabilidad social, cívica y ética</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1328</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T10:00:00</FechaInicio>
+    <FechaFin>2020-10-09T10:30:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1329</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T10:30:00</FechaInicio>
+    <FechaFin>2020-10-09T11:00:00</FechaFin>
+    <NombreCapitulo>Pensamiento matemático</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1330</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T11:00:00</FechaInicio>
+    <FechaFin>2020-10-09T11:30:00</FechaFin>
+    <NombreCapitulo>Educación y saberes digitales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1331</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T11:30:00</FechaInicio>
+    <FechaFin>2020-10-09T12:00:00</FechaFin>
+    <NombreCapitulo>Comunicación</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1332</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T12:00:00</FechaInicio>
+    <FechaFin>2020-10-09T12:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1333</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T12:30:00</FechaInicio>
+    <FechaFin>2020-10-09T13:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1334</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T13:00:00</FechaInicio>
+    <FechaFin>2020-10-09T13:30:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1335</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T13:30:00</FechaInicio>
+    <FechaFin>2020-10-09T14:00:00</FechaFin>
+    <NombreCapitulo>Telebachillerato comunitario</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1336</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T14:00:00</FechaInicio>
+    <FechaFin>2020-10-09T14:30:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1337</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T14:30:00</FechaInicio>
+    <FechaFin>2020-10-09T15:00:00</FechaFin>
+    <NombreCapitulo>Aprendiendo a amar a México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1338</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T15:00:00</FechaInicio>
+    <FechaFin>2020-10-09T15:30:00</FechaFin>
+    <NombreCapitulo>Lengua Materna. Español</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1339</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T15:30:00</FechaInicio>
+    <FechaFin>2020-10-09T16:00:00</FechaFin>
+    <NombreCapitulo>Matemáticas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1340</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T16:00:00</FechaInicio>
+    <FechaFin>2020-10-09T16:30:00</FechaFin>
+    <NombreCapitulo>Historia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1341</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T16:30:00</FechaInicio>
+    <FechaFin>2020-10-09T17:00:00</FechaFin>
+    <NombreCapitulo>Ciencia y tecnología. Química</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1342</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T17:00:00</FechaInicio>
+    <FechaFin>2020-10-09T17:30:00</FechaFin>
+    <NombreCapitulo>Artes</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1343</IdPrograma>
+    <NombrePrograma>Aprende en casa II</NombrePrograma>
+    <FechaInicio>2020-10-09T17:30:00</FechaInicio>
+    <FechaFin>2020-10-09T18:00:00</FechaFin>
+    <NombreCapitulo>Vida saludable</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1344</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-09T18:00:00</FechaInicio>
+    <FechaFin>2020-10-09T18:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1345</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-09T18:30:00</FechaInicio>
+    <FechaFin>2020-10-09T19:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1346</IdPrograma>
+    <NombrePrograma>Científicamente</NombrePrograma>
+    <FechaInicio>2020-10-09T19:00:00</FechaInicio>
+    <FechaFin>2020-10-09T19:30:00</FechaFin>
+    <NombreCapitulo>Técnicas isotópicas aplicadas a la hidrología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1347</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-09T19:30:00</FechaInicio>
+    <FechaFin>2020-10-09T20:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 279</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1348</IdPrograma>
+    <NombrePrograma>Miradas sin filtro</NombrePrograma>
+    <FechaInicio>2020-10-09T20:00:00</FechaInicio>
+    <FechaFin>2020-10-09T21:00:00</FechaFin>
+    <NombreCapitulo>Los Juárez</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1349</IdPrograma>
+    <NombrePrograma>Creando ando T7</NombrePrograma>
+    <FechaInicio>2020-10-09T21:00:00</FechaInicio>
+    <FechaFin>2020-10-09T22:00:00</FechaFin>
+    <NombreCapitulo>La cercada</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1350</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-09T22:00:00</FechaInicio>
+    <FechaFin>2020-10-09T22:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1351</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-09T22:30:00</FechaInicio>
+    <FechaFin>2020-10-09T23:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1352</IdPrograma>
+    <NombrePrograma>Científicamente</NombrePrograma>
+    <FechaInicio>2020-10-09T23:00:00</FechaInicio>
+    <FechaFin>2020-10-09T23:30:00</FechaFin>
+    <NombreCapitulo>Técnicas isotópicas aplicadas a la hidrología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1353</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-09T23:30:00</FechaInicio>
+    <FechaFin>2020-10-10T00:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 279</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1354</IdPrograma>
+    <NombrePrograma>Miradas sin filtro</NombrePrograma>
+    <FechaInicio>2020-10-10T00:00:00</FechaInicio>
+    <FechaFin>2020-10-10T01:00:00</FechaFin>
+    <NombreCapitulo>Los Juárez</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1355</IdPrograma>
+    <NombrePrograma>Creando ando T7</NombrePrograma>
+    <FechaInicio>2020-10-10T01:00:00</FechaInicio>
+    <FechaFin>2020-10-10T02:00:00</FechaFin>
+    <NombreCapitulo>La cercada</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1356</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-10T02:00:00</FechaInicio>
+    <FechaFin>2020-10-10T02:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1357</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T02:30:00</FechaInicio>
+    <FechaFin>2020-10-10T03:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1358</IdPrograma>
+    <NombrePrograma>Científicamente</NombrePrograma>
+    <FechaInicio>2020-10-10T03:00:00</FechaInicio>
+    <FechaFin>2020-10-10T03:30:00</FechaFin>
+    <NombreCapitulo>Técnicas isotópicas aplicadas a la hidrología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1359</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-10T03:30:00</FechaInicio>
+    <FechaFin>2020-10-10T04:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 279</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1360</IdPrograma>
+    <NombrePrograma>Miradas sin filtro</NombrePrograma>
+    <FechaInicio>2020-10-10T04:00:00</FechaInicio>
+    <FechaFin>2020-10-10T05:00:00</FechaFin>
+    <NombreCapitulo>Los Juárez</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1361</IdPrograma>
+    <NombrePrograma>Creando ando T7</NombrePrograma>
+    <FechaInicio>2020-10-10T05:00:00</FechaInicio>
+    <FechaFin>2020-10-10T06:00:00</FechaFin>
+    <NombreCapitulo>La cercada</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1362</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-10T06:00:00</FechaInicio>
+    <FechaFin>2020-10-10T06:30:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1363</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T06:30:00</FechaInicio>
+    <FechaFin>2020-10-10T07:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1364</IdPrograma>
+    <NombrePrograma>Científicamente</NombrePrograma>
+    <FechaInicio>2020-10-10T07:00:00</FechaInicio>
+    <FechaFin>2020-10-10T07:30:00</FechaFin>
+    <NombreCapitulo>Técnicas isotópicas aplicadas a la hidrología</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1365</IdPrograma>
+    <NombrePrograma>Noticiero NCC</NombrePrograma>
+    <FechaInicio>2020-10-10T07:30:00</FechaInicio>
+    <FechaFin>2020-10-10T08:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 279</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1366</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-10T08:00:00</FechaInicio>
+    <FechaFin>2020-10-10T09:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1367</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-10T09:00:00</FechaInicio>
+    <FechaFin>2020-10-10T09:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1368</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T09:30:00</FechaInicio>
+    <FechaFin>2020-10-10T10:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1369</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-10T10:00:00</FechaInicio>
+    <FechaFin>2020-10-10T11:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1370</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-10T11:15:00</FechaInicio>
+    <FechaFin>2020-10-10T11:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1371</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-10T11:30:00</FechaInicio>
+    <FechaFin>2020-10-10T12:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1372</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-10T12:00:00</FechaInicio>
+    <FechaFin>2020-10-10T13:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1373</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-10T13:00:00</FechaInicio>
+    <FechaFin>2020-10-10T13:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1374</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T13:30:00</FechaInicio>
+    <FechaFin>2020-10-10T14:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1375</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-10T14:00:00</FechaInicio>
+    <FechaFin>2020-10-10T15:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1376</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-10T15:15:00</FechaInicio>
+    <FechaFin>2020-10-10T15:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1377</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-10T15:30:00</FechaInicio>
+    <FechaFin>2020-10-10T16:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1378</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-10T16:00:00</FechaInicio>
+    <FechaFin>2020-10-10T17:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1379</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-10T17:00:00</FechaInicio>
+    <FechaFin>2020-10-10T17:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1380</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T17:30:00</FechaInicio>
+    <FechaFin>2020-10-10T18:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1381</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-10T18:00:00</FechaInicio>
+    <FechaFin>2020-10-10T19:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1382</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-10T19:15:00</FechaInicio>
+    <FechaFin>2020-10-10T19:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1383</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-10T19:30:00</FechaInicio>
+    <FechaFin>2020-10-10T20:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1384</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-10T20:00:00</FechaInicio>
+    <FechaFin>2020-10-10T21:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1385</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-10T21:00:00</FechaInicio>
+    <FechaFin>2020-10-10T21:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1386</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-10T21:30:00</FechaInicio>
+    <FechaFin>2020-10-10T22:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1387</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-10T22:00:00</FechaInicio>
+    <FechaFin>2020-10-10T23:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1388</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-10T23:15:00</FechaInicio>
+    <FechaFin>2020-10-11T23:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1389</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-10T23:30:00</FechaInicio>
+    <FechaFin>2020-10-11T00:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1390</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-11T00:00:00</FechaInicio>
+    <FechaFin>2020-10-11T01:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1391</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-11T01:00:00</FechaInicio>
+    <FechaFin>2020-10-11T01:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1392</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-11T01:30:00</FechaInicio>
+    <FechaFin>2020-10-11T02:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1393</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-11T02:00:00</FechaInicio>
+    <FechaFin>2020-10-11T03:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1394</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-11T03:15:00</FechaInicio>
+    <FechaFin>2020-10-11T03:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1395</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T03:30:00</FechaInicio>
+    <FechaFin>2020-10-11T04:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1396</IdPrograma>
+    <NombrePrograma>Al Natural</NombrePrograma>
+    <FechaInicio>2020-10-11T04:00:00</FechaInicio>
+    <FechaFin>2020-10-11T05:00:00</FechaFin>
+    <NombreCapitulo>El costo del hambre</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1397</IdPrograma>
+    <NombrePrograma>Palabras sin cuarentena</NombrePrograma>
+    <FechaInicio>2020-10-11T05:00:00</FechaInicio>
+    <FechaFin>2020-10-11T05:30:00</FechaFin>
+    <NombreCapitulo>Movilidad y pandemia. Paradojas del aislamiento y la cooperación social y prácticas de cuidado colectivo. Comedores comunitarios y perspectiva del cuidado, en tiempos de pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1398</IdPrograma>
+    <NombrePrograma>En la caja</NombrePrograma>
+    <FechaInicio>2020-10-11T05:30:00</FechaInicio>
+    <FechaFin>2020-10-11T06:00:00</FechaFin>
+    <NombreCapitulo>Egar Murillo?</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1399</IdPrograma>
+    <NombrePrograma>Ciclo de charlas proyecto feminista</NombrePrograma>
+    <FechaInicio>2020-10-11T06:00:00</FechaInicio>
+    <FechaFin>2020-10-11T07:15:00</FechaFin>
+    <NombreCapitulo>Políticas urgentes después de la pandemia</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1400</IdPrograma>
+    <NombrePrograma>Like a las 10</NombrePrograma>
+    <FechaInicio>2020-10-11T07:15:00</FechaInicio>
+    <FechaFin>2020-10-11T07:30:00</FechaFin>
+    <NombreCapitulo>Conocé a Kipi, el robot que acompaña la enseñanza en Colcabamba</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1401</IdPrograma>
+    <NombrePrograma>Conciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T07:30:00</FechaInicio>
+    <FechaFin>2020-10-11T08:00:00</FechaFin>
+    <NombreCapitulo>Centro de Investigación y Estudios en Desarrollo Sostenible</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1402</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-11T08:00:00</FechaInicio>
+    <FechaFin>2020-10-11T08:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1403</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-11T08:30:00</FechaInicio>
+    <FechaFin>2020-10-11T09:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1404</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-11T09:00:00</FechaInicio>
+    <FechaFin>2020-10-11T09:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1405</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-11T09:30:00</FechaInicio>
+    <FechaFin>2020-10-11T10:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1406</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-11T10:00:00</FechaInicio>
+    <FechaFin>2020-10-11T11:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1407</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-11T11:00:00</FechaInicio>
+    <FechaFin>2020-10-11T11:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1408</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T11:30:00</FechaInicio>
+    <FechaFin>2020-10-11T12:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1409</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-11T12:00:00</FechaInicio>
+    <FechaFin>2020-10-11T12:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1410</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-11T12:30:00</FechaInicio>
+    <FechaFin>2020-10-11T13:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1411</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-11T13:00:00</FechaInicio>
+    <FechaFin>2020-10-11T13:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1412</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-11T13:30:00</FechaInicio>
+    <FechaFin>2020-10-11T14:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1413</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-11T14:00:00</FechaInicio>
+    <FechaFin>2020-10-11T15:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1414</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-11T15:00:00</FechaInicio>
+    <FechaFin>2020-10-11T15:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1415</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T15:30:00</FechaInicio>
+    <FechaFin>2020-10-11T16:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1416</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-11T16:00:00</FechaInicio>
+    <FechaFin>2020-10-11T16:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1417</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-11T16:30:00</FechaInicio>
+    <FechaFin>2020-10-11T17:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1418</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-11T17:00:00</FechaInicio>
+    <FechaFin>2020-10-11T17:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1419</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-11T17:30:00</FechaInicio>
+    <FechaFin>2020-10-11T18:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1420</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-11T18:00:00</FechaInicio>
+    <FechaFin>2020-10-11T19:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1421</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-11T19:00:00</FechaInicio>
+    <FechaFin>2020-10-11T19:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1422</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T19:30:00</FechaInicio>
+    <FechaFin>2020-10-11T20:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1423</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-11T20:00:00</FechaInicio>
+    <FechaFin>2020-10-11T20:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1424</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-11T20:30:00</FechaInicio>
+    <FechaFin>2020-10-11T21:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1425</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-11T21:00:00</FechaInicio>
+    <FechaFin>2020-10-11T21:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1426</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-11T21:30:00</FechaInicio>
+    <FechaFin>2020-10-11T22:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1427</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-11T22:00:00</FechaInicio>
+    <FechaFin>2020-10-11T23:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1428</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-11T23:00:00</FechaInicio>
+    <FechaFin>2020-10-11T23:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1429</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-11T23:30:00</FechaInicio>
+    <FechaFin>2020-10-12T00:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1430</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-12T00:00:00</FechaInicio>
+    <FechaFin>2020-10-12T00:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1431</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-12T00:30:00</FechaInicio>
+    <FechaFin>2020-10-12T01:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1432</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-12T01:00:00</FechaInicio>
+    <FechaFin>2020-10-12T01:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1433</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-12T01:30:00</FechaInicio>
+    <FechaFin>2020-10-12T02:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1434</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-12T02:00:00</FechaInicio>
+    <FechaFin>2020-10-12T03:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1435</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-12T03:00:00</FechaInicio>
+    <FechaFin>2020-10-12T03:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1436</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-12T03:30:00</FechaInicio>
+    <FechaFin>2020-10-12T04:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1437</IdPrograma>
+    <NombrePrograma>Bios. Naturaleza y sociedad</NombrePrograma>
+    <FechaInicio>2020-10-12T04:00:00</FechaInicio>
+    <FechaFin>2020-10-12T04:30:00</FechaFin>
+    <NombreCapitulo>Santuario de gigantes: Pacífico norte</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1438</IdPrograma>
+    <NombrePrograma>Curiosamente</NombrePrograma>
+    <FechaInicio>2020-10-12T04:30:00</FechaInicio>
+    <FechaFin>2020-10-12T05:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1439</IdPrograma>
+    <NombrePrograma>Diálogos desde la frontera</NombrePrograma>
+    <FechaInicio>2020-10-12T05:00:00</FechaInicio>
+    <FechaFin>2020-10-12T05:30:00</FechaFin>
+    <NombreCapitulo>Lecciones aprendidas sobre los desastres asociados a eventos naturales</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1440</IdPrograma>
+    <NombrePrograma>Punto cultural</NombrePrograma>
+    <FechaInicio>2020-10-12T05:30:00</FechaInicio>
+    <FechaFin>2020-10-12T06:00:00</FechaFin>
+    <NombreCapitulo>Capítulo 1, Capítulo 2 y Capítulo 3</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1441</IdPrograma>
+    <NombrePrograma>Diálogos con la realidad. Economía social y solidaria</NombrePrograma>
+    <FechaInicio>2020-10-12T06:00:00</FechaInicio>
+    <FechaFin>2020-10-12T07:00:00</FechaFin>
+    <NombreCapitulo>Gestión de empresas</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1442</IdPrograma>
+    <NombrePrograma>La oveja eléctrica T8</NombrePrograma>
+    <FechaInicio>2020-10-12T07:00:00</FechaInicio>
+    <FechaFin>2020-10-12T07:30:00</FechaFin>
+    <NombreCapitulo>Recursos naturales: niños talentosos</NombreCapitulo>
+  </Programacion>
+  <Programacion>
+    <IdPrograma>1443</IdPrograma>
+    <NombrePrograma>Tiempo de ciencia</NombrePrograma>
+    <FechaInicio>2020-10-12T07:30:00</FechaInicio>
+    <FechaFin>2020-10-12T08:00:00</FechaFin>
+    <NombreCapitulo>Análisis de la relación entre las comunidades vegetales de manglar y su microbiota y las algas en México</NombreCapitulo>
   </Programacion>
 </root>
