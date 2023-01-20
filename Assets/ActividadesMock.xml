@@ -62,10 +62,10 @@
             <Ponentes>
               <Ponente xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                 <IdPonente>1</IdPonente>
-                <Nombre>Enrique Calderón Alzati</Nombre>
-                <Biografia>Estudió la carrera de Física en la UNAM, Maestro en Ingeniería Eléctrica y Doctor en Ciencias de la Computación en la Universidad de Pennsylvania.</Biografia>
-                <URLFoto>https://xamarin.github.io/app-employee-directory/images/men/1.jpg</URLFoto>
-                <URLAvatar>https://virtualeduca.org/app/tmp/165x203fot_alzati.png</URLAvatar>
+                <Nombre>Salvador Percastre-Mendizábal</Nombre>
+                <Biografia>Posdoctorante en Gobernanza y Políticas Públicas para la Educación (Universidad de Alcalá/OEI); Doctor en Comunicación Política por la Universitat Pompeu Fabra en Barcelona y Doctor en Información y Comunicación por la Université Libre de Bruxelles en Bélgica.</Biografia>
+                <URLFoto>https://www.ilce.edu.mx/images/noticias/comunicados/2022/30ago/R_DI.jpg</URLFoto>
+                <URLAvatar>https://www.cesnext.com/wp-content/uploads/2021/04/Salvador-Percastre.jpeg</URLAvatar>
                 <Puesto>Director General</Puesto>
                 <Empresa>ILCE</Empresa>
                 <URLEmpresa>http://www.ilce.edu.mx/</URLEmpresa>
